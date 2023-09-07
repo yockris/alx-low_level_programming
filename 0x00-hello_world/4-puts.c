@@ -1,6 +1,8 @@
 #include <stdio.h>
+
 /**
- * main - The program will display "Programming is like building a multilingual puzzle"
+ * main - The program will display
+ * "Programming is like building a multilingual puzzle
  *
  * Return: (0) success
  */
