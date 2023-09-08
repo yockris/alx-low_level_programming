@@ -1,7 +1,6 @@
 #include <unistd.h>
 /**
- * main - This program will display
- * "and that piece of art is useful" 
+ * main - This program will display "and that piece of art is useful" 
  * - Dora Korpar, 2015-10-19"
  *
  * Return: (1) success
