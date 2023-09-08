@@ -1,7 +1,8 @@
 #include <stdio.h>
+
 /**
  * main - This program will display
- * "with proper grammer, but the outcome is a piece of art,
+ * "with proper grammer, but the outcome is a piece of art,"
  *
  * Return: (0) success
  */
