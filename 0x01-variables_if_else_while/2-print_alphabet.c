@@ -1,21 +1,22 @@
 #include <stdio.h>
+
 /**
- * main - the program will print alphabets in lover cases
+ * main - the program will print an
+ * alphabets in lower cases
  * followed by a new line
  *
  * Return: (0) success
  */
 int main(void)
 {
-	char letter = 'a';
-	while (letter <= 'z')
-	
-{
+    char letter = 'a';
 
-	putchar(letter);
-	letter++;
+    while (letter <= 'z')
+    {
+        putchar(letter);
+        letter++;
+    }
 
-}
-	putchar('\n');
-	return (0);
+    putchar('\n');
+    return (0);
 }
