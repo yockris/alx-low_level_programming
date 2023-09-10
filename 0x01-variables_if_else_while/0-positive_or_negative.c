@@ -4,7 +4,8 @@
 /**
  * main - This program will assign
  * A random number to the variable n
- * each time it is executed
+ * each time it is executed using 
+ * random numbers generator function
  *
  * Return: (0) success
  */
