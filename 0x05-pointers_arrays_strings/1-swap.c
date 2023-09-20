@@ -8,12 +8,12 @@
  * Return: (0) success
  */
 
-void swap_int(int *x, int *y)
+void swap_int(int *a, int *b)
 {
-	int a;
+	int x;
 
-	a = *x;
-	*x = a;
-	*x = *y;
-	*y = a;
+	x = *a;
+	*a = x;
+	*a = *b;
+	*b = x;
 }
