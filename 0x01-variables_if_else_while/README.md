@@ -1,4 +1,6 @@
-0x01. C - Variables, if, else, while
+#0x01. C - Variables, if, else, while
+
+
 Welcome to the project 0x01. C - Variables, if, else, while! This project focuses on developing your understanding and skills in C programming, specifically working with variables, if-else statements, and while loops. 🚀
 
 Tasks Overview
@@ -32,14 +34,18 @@ Here's a brief overview of the tasks included in this project:
 
 For detailed instructions on each task, please refer to the respective files in the project repository.
 
-Getting Started
+#Getting Started
 To begin working on this project, follow these steps:
 
 Clone the project repository: git clone https://github.com/IsaMarvin/alx-low_level_programming.git
 Navigate to the project directory: cd 0x01-variables_if_else_while
-Running the Programs
+
+#Running the Programs
 To run the programs for each task, follow these steps:
 
 Compile the C file using gcc: gcc <filename.c> -o <output-file>
 Execute the compiled program: ./<output-file>
-Thank you for choosing our project and joining us on this coding journey! We hope that working through the tasks in 0x01-variables_if_else_while will enhance your C programming skills and provide a solid foundation for further learning. Happy coding and enjoy the process of mastering C programming! 🌟
+
+
+
+#Thank you for choosing our project and joining us on this coding journey! We hope that working through the tasks in 0x01-variables_if_else_while will enhance your C programming skills and provide a solid foundation for further learning. Happy coding and enjoy the process of mastering C programming! 🌟
