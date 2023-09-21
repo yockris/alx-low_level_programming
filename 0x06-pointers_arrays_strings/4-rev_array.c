@@ -1,7 +1,8 @@
 #include "main.h"
 
 /**
- * reverse_array - Will display the Function that reverse the content of an array of int
+ * reverse_array - Will display the Function 
+ * that reverse the content of an array of int
  * @a: Type int
  * @n: Type int
  * Return: Always 0.
