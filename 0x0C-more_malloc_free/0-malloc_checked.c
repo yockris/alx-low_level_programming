@@ -7,8 +7,7 @@
  * malloc_checked - create array of char.
  * @b: type unsigned int.
  * Return: Pointer of allocated memory.
-
-*/
+ */
 void *malloc_checked(unsigned int b)
 {
 	void *p = NULL;
